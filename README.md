@@ -3,7 +3,7 @@
 ## Course 1 : [Introduction to Front-End Development]
 - [Module 1](1-Introduction-to-front-end-development/M1/)
   
-- [Examine the page](1-Introduction-to-front-end-development/M1)
+- [Examine the page](1-Introduction-to-front-end-development/M1/examine-the-page/site)
   
 
 - [Module 2](1-Introduction-to-front-end-development/M2/)
