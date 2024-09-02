@@ -24,3 +24,31 @@
 
 
 ### [Certificate of Completion](https://coursera.org/share/4ca3269df5aa11f1feb9d034f1f9a114)
+
+<br/>
+
+
+## Course 2 : [Programming with Javascript]
+- [Module 3](2-Programming-with-Javascript/M3)
+  
+     - [array-and-object-iteration](2-Programming-with-Javascript/M3/array-and-object-iteration)
+     - [building-an-oop](2-Programming-with-Javascript/M3/building-an-oop)
+     - [functional_programming](2-Programming-with-Javascript/M3/functional_programming)
+  
+
+- [Module 4](2-Programming-with-Javascript/M4)
+  
+     - [assignment](2-Programming-with-Javascript/M4/M4a)
+  
+
+  
+- [Module 5](2-Programming-with-Javascript/M5)
+  
+     - [assignment](2-Programming-with-Javascript/M5/M5a)
+  
+
+### [Certificate of Completion](https://coursera.org/share/438f047ed827732f461e4a5f8177ac69)
+
+<br/>
+
+
