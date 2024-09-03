@@ -51,4 +51,12 @@
 
 <br/>
 
+## Course 3 : [Version Control]
+
+
+### [Certificate of Completion](https://coursera.org/share/902a52679b8bb4b2716def2cfd40ca6e)
+
+
+<br/>
+
 
