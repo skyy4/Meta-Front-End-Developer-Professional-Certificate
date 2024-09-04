@@ -59,4 +59,18 @@
 
 <br/>
 
+## Course 4 : [HTML and CSS in Depth]
+- [Module 1](4-HTML-and-CSS-in-depth/M1)
+  
+     - [creating-a-complex-form](4-HTML-and-CSS-in-depth/M1/creating-a-complex-form)
+     - [creating-and-test-a-form](4-HTML-and-CSS-in-depth/M1/creating-a-complex-form)
+     - [rating-the-media](4-HTML-and-CSS-in-depth/M1/rating-the-media)
+  
 
+- [Module 3](4-HTML-and-CSS-in-depth/M3)
+  
+     - [portfolio-project](4-HTML-and-CSS-in-depth/M3/portfolio-project)
+     - <a href="https://m1project.netlify.app">view here</a>
+
+    
+### [Certificate of Completion](https://coursera.org/share/bda031d5fce0e893e80709224381a5b8)
