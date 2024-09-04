@@ -70,7 +70,8 @@
 - [Module 3](4-HTML-and-CSS-in-depth/M3)
   
      - [portfolio-project](4-HTML-and-CSS-in-depth/M3/portfolio-project)
-     - <a href="https://m1project.netlify.app">view here</a>
+      <br>
+     - <a href="https://m1project.netlify.app">visit the site</a>
 
     
 ### [Certificate of Completion](https://coursera.org/share/bda031d5fce0e893e80709224381a5b8)
