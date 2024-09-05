@@ -51,13 +51,13 @@
 
 <br/>
 
-## Course 3 : [Version Control]
 
+## Course 3 : [Version Control]
 
 ### [Certificate of Completion](https://coursera.org/share/902a52679b8bb4b2716def2cfd40ca6e)
 
-
 <br/>
+
 
 ## Course 4 : [HTML and CSS in Depth]
 - [Module 1](4-HTML-and-CSS-in-depth/M1)
@@ -70,8 +70,32 @@
 - [Module 3](4-HTML-and-CSS-in-depth/M3)
   
      - [portfolio-project](4-HTML-and-CSS-in-depth/M3/portfolio-project)
-      <br>
-     - <a href="https://m1project.netlify.app">visit the site</a>
+  <br>
+      <a href="https://m1project.netlify.app">site</a>
 
     
 ### [Certificate of Completion](https://coursera.org/share/bda031d5fce0e893e80709224381a5b8)
+
+ <br>
+
+
+## Course 2 : [React Basics]
+- [Module 1](5-React-Basics/M1)
+  
+     - [creating-and-importing-components](5-React-Basics/M1/creating-and-importing-components)
+     - [first-component](5-React-Basics/M1/first-component)
+     - [multiple-components](5-React-Basics/M1/multiple-components)
+     - [passing-props](5-React-Basics/M1/passing-props)
+  
+
+- [Module 2](5-React-Basics/M2)
+  
+     - [dynamic-events](5-React-Basics/M2/dynamic-events)
+  
+
+- [Module 4](5-React-Basics/M4)
+  
+     - [calculator-app](5-React-Basics/M4/calculator-app)
+  
+
+### [Certificate of Completion](https://coursera.org/share/cc334dbfc181703533c65d28cdafa5ba)
