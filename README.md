@@ -79,7 +79,7 @@
  <br>
 
 
-## Course 2 : [React Basics]
+## Course 5 : [React Basics]
 - [Module 1](5-React-Basics/M1)
   
      - [creating-and-importing-components](5-React-Basics/M1/creating-and-importing-components)
