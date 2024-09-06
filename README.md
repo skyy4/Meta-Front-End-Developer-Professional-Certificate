@@ -88,7 +88,7 @@
      - [passing-props](5-React-Basics/M1/passing-props)
   
 
-- [Module 2](5-React-Basics/M2)
+- [Module 5](5-React-Basics/M2)
   
      - [dynamic-events](5-React-Basics/M2/dynamic-events)
   
@@ -99,3 +99,32 @@
   
 
 ### [Certificate of Completion](https://coursera.org/share/cc334dbfc181703533c65d28cdafa5ba)
+
+<br>
+
+## Course 6 : [Advanced React]
+- [Module 1](6-Advanced-React/M1)
+  
+     - [lab-create-a-basic-list-component](6-Advanced-React/M1/lab-create-a-basic-list-component)
+     - [lab-create-a-light-dark-theme-switcher](6-Advanced-React/M1/lab-create-a-light-dark-theme-switcher)
+     - [lab-create-a-registration-form](6-Advanced-React/M1/lab-create-a-registration-form)
+    
+
+- [Module 2](6-Advanced-React/M2)
+  
+     - [lab-create-your-own-custom-hook](6-Advanced-React/M2/lab-create-your-own-custom-hook)
+     - [lab-managing-states-within-a-component](6-Advanced-React/M2/lab-managing-states-within-a-component)
+
+
+- [Module 3](6-Advanced-React/M3)
+  
+     - [lab-build-a-radio-group-component](6-Advanced-React/M3/lab-build-a-radio-group-component)
+     - [lab-writing-more-tests](6-Advanced-React/M3/lab-writing-more-tests)
+  
+  
+- [Module 4](6-Advanced-React/M4)
+  
+     - [portfolio](6-Advanced-React/M4/portfolio)
+     
+
+### [Certificate of Completion](https://coursera.org/share/ac610a646a0eb7473e4c307b863a6dcc)
