@@ -128,3 +128,12 @@
      
 
 ### [Certificate of Completion](https://coursera.org/share/ac610a646a0eb7473e4c307b863a6dcc)
+
+<br/>
+
+
+## Course 7 : [Principles of UX/UI Design]
+
+### [Certificate of Completion](https://coursera.org/share/b5672fdb45735d9ce8dd2fc2c39c52f7)
+
+<br/>
