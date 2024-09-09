@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0dcafa1.css",
+    "main.js": "/static/js/main.4a7936fa.js",
+    "static/js/787.2bf7b87f.chunk.js": "/static/js/787.2bf7b87f.chunk.js",
+    "static/media/bhog-56.jpg": "/static/media/bhog-56.a616a91e9affc0e6598c.jpg",
+    "static/media/kadhi-chawal.jpg": "/static/media/kadhi-chawal.2f97a8a99e09a618cdf6.jpg",
+    "static/media/southy-dish.jpg": "/static/media/southy-dish.3bad625277607bd995b9.jpg",
+    "static/media/logo-white.png": "/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/restaurant-food.jpg": "/static/media/restaurant-food.cc9ea38d4b78f36a05a0.jpg",
+    "static/media/chef2.jpg": "/static/media/chef2.0e33f027fca81734eb31.jpg",
+    "static/media/chef1.jpg": "/static/media/chef1.13ff34c0992e60504e2c.jpg",
+    "static/media/logo.png": "/static/media/logo.e68246686f716ff6e5d8.png",
+    "index.html": "/index.html",
+    "static/media/arrowDown.svg": "/static/media/arrowDown.8a70b7250e71a1b25016.svg",
+    "main.a0dcafa1.css.map": "/static/css/main.a0dcafa1.css.map",
+    "main.4a7936fa.js.map": "/static/js/main.4a7936fa.js.map",
+    "787.2bf7b87f.chunk.js.map": "/static/js/787.2bf7b87f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0dcafa1.css",
+    "static/js/main.4a7936fa.js"
+  ]
+}
