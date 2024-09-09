@@ -137,3 +137,17 @@
 ### [Certificate of Completion](https://coursera.org/share/b5672fdb45735d9ce8dd2fc2c39c52f7)
 
 <br/>
+
+## Course 8 : [Front-End Developer Capstone]
+
+# Little Lemon :lemon:
+
+     -This project was created as a part of the Meta Frontend Developer course.
+     -![Website Preview]()
+     -Check out the live version of the website! [View Live Demo](https://little-lemon-skyy4.netlify.app)
+
+### [Certificate of Completion]()
+
+<br/>
+
+
