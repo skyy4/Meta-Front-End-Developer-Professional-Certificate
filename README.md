@@ -141,10 +141,12 @@
 ## Course 8 : [Front-End Developer Capstone]
 
 # Little Lemon :lemon:
+<br>
+<a href="https://little-lemon-skyy4.netlify.app">landingPage-littleLemon</a>
+<br>
+![capstone](https://github.com/user-attachments/assets/afa797fb-f168-48a7-8e45-38f03288fb33)
+<br> 
 
-     -This project was created as a part of the Meta Frontend Developer course.
-     -![Website Preview]()
-     -Check out the live version of the website! [View Live Demo](https://little-lemon-skyy4.netlify.app)
 
 ### [Certificate of Completion]()
 
