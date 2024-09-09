@@ -141,9 +141,10 @@
 ## Course 8 : [Front-End Developer Capstone]
 
 # Little Lemon :lemon:
+![capstone](https://github.com/user-attachments/assets/2fe1545d-1fe6-4e24-babf-5608bbde78e4)
 <br>
-<a href="https://little-lemon-skyy4.netlify.app">View Live</a>
-
+Check out the live version of the website! - <a href="https://little-lemon-skyy4.netlify.app">View Live</a>
+<br>
 
 
 ### [Certificate of Completion]()
