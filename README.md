@@ -142,10 +142,8 @@
 
 # Little Lemon :lemon:
 <br>
-<a href="https://little-lemon-skyy4.netlify.app">landingPage-littleLemon</a>
-<br>
-![capstone](https://github.com/user-attachments/assets/afa797fb-f168-48a7-8e45-38f03288fb33)
-<br> 
+<a href="https://little-lemon-skyy4.netlify.app">View Live</a>
+
 
 
 ### [Certificate of Completion]()
