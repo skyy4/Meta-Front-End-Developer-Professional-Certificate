@@ -147,7 +147,14 @@ Check out the live version of the website! - <a href="https://little-lemon-skyy4
 <br>
 
 
-### [Certificate of Completion]()
+### [Certificate of Completion](https://coursera.org/share/7ba64e2185f6998efc2c2c296294308b)
+
+<br/>
+
+
+## Course 9 : [Coding Interview Preparation]
+
+### [Certificate of Completion](https://coursera.org/share/166c2517bb00ff401a095f26176f35ab)
 
 <br/>
 
